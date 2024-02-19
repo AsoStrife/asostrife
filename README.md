@@ -7,17 +7,15 @@
 
 - 🔭 I’m currently working on [Unicapp](https://github.com/AsoStrife/Unicapp)
 
-- 🌱 I’m currently learning **Terraform, Solidity, Vue**
-
 - 🔭 I’m currently working on [My Movies App](https://github.com/AsoStrife/My-Movies-F7-Vue)
 
-- 🔭 I’m currently working on [Bing Search Automator](https://github.com/AsoStrife/Bing-Search-Automator)
+- 🔭 I’m currently working on [Rewards Search Automator]([https://github.com/AsoStrife/Bing-Search-Automator](https://github.com/AsoStrife/Rewards-Search-Automator))
+
+- I'm currently working on many other top secret projects
 
 - 👨‍💻 All of my projects are available at [https://andreacorriga.com/projects](https://andreacorriga.com/projects)
 
-- 💬 Ask me about **Framework7, Vue, PhP, Strapi,**
-
-- 📫 How to reach me **me@andreacorriga.com**
+- 💬 Ask me about **Machine and Deep Learning, Node, PHP, Python and many of their related frameworks**
 
 - 📄 Know about my experiences [https://cv.andreacorriga.com](https://cv.andreacorriga.com)
 
